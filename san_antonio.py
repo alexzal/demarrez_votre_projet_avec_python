@@ -15,6 +15,9 @@ characters = [
     "Kirikou"
 ]
 
+#I cannot make it run if user_answer is not defined
+user_answer == "B":
+
 if user_answer == "B":
     pass
 elif user_answer == "C":
